@@ -1,0 +1,10 @@
+{
+  "type": "ascp",
+  "assets": {
+    "type": "builder",
+    "builder": {
+      "name": "@ali/builder-ascp",
+      "env": "CLOUD"
+    }
+  }
+}

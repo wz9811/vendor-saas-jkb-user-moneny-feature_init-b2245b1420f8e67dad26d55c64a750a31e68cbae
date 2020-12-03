@@ -1,0 +1,9 @@
+{
+  "extends": "eslint-config-ali/react",
+  "parser": "babel-eslint",
+  "rules": {
+    "react/forbid-prop-types": "off",
+    "react/prop-types": "off",
+    "semi": "off"
+  }
+}
