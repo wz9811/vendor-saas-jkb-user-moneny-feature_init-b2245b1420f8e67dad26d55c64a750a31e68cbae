@@ -1,7 +1,0 @@
-{
-  "type": "object",
-  "properties": {},
-  "auto": "ascp-props-parser",
-  "description": "该schema文件由【@ali/ascp-props-parser】自动生成，请勿修改",
-  "success": true
-}

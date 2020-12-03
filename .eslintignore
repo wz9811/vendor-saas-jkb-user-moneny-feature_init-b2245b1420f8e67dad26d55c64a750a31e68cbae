@@ -1,9 +1,0 @@
-src/seed.js
-src/seed.json
-src/schema.config.js
-gulpfile.js
-tap.conf.js
-build/*
-build-tnpm/*
-docs/*
-webpack.config
